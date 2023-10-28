@@ -10,6 +10,7 @@ public class Estudiante {
     public char genEstudiante;
     public float promedioGeneral;
     public boolean esBecado;
+    public String nombre;
 
     public static void main(String[] args) {
 
